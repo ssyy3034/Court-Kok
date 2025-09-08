@@ -6,7 +6,7 @@
 
 # 🏀 Court-Kok (코트콕)
 
-\<img src="[https://user-images.githubusercontent.com/81137093/228120519-7c331005-950c-4394-9b2a-7140f055c3c0.png](https://www.google.com/search?q=https://user-images.githubusercontent.com/81137093/228120519-7c331005-950c-4394-9b2a-7140f055c3c0.png)" alt="Court-Kok Logo" width="250"/\>
+<img width="294" height="295" alt="Image" src="https://github.com/user-attachments/assets/2793310a-08af-4d96-bb78-3bedff8c4fc2" />
 
 > 농구 예약을 간단하게, 즐겁게\!
 
