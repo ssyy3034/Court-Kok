@@ -19,9 +19,9 @@
 
 ## 🖼️ 서비스 화면
 
-| 로그인 & 회원가입 | 메인 페이지 (예약) |
-| :---: | :---: |
-| <img width="222" height="382" alt="Image" src="https://github.com/user-attachments/assets/1d6ac47c-4f99-4aa9-9cda-680fc6ed011a" /> <img width="194" height="382" alt="Image" src="https://github.com/user-attachments/assets/cfc4b7df-79c9-4623-8d0d-4bfd9bd97d96" />| <img width="502" height="381" alt="Image" src="https://github.com/user-attachments/assets/ad72bbd7-cbe2-4a95-9879-714869557abf" /> |
+| 로그인 | 회원가입 | 메인 페이지 (예약) |
+| :---: | :---: | :---: |
+| <img width="222" height="382" alt="Image" src="https://github.com/user-attachments/assets/1d6ac47c-4f99-4aa9-9cda-680fc6ed011a" /> |<img width="194" height="382" alt="Image" src="https://github.com/user-attachments/assets/cfc4b7df-79c9-4623-8d0d-4bfd9bd97d96" />| <img width="502" height="381" alt="Image" src="https://github.com/user-attachments/assets/ad72bbd7-cbe2-4a95-9879-714869557abf" /> |
 | **모임 목록** | **알림** |
 | <img width="452" height="313" alt="image" src="https://github.com/user-attachments/assets/a6757115-496a-4461-a17e-ded00356c08f" />| <img width="410" height="363" alt="image" src="https://github.com/user-attachments/assets/fa7b996c-3cfa-4db4-b0d5-3c54e3b74874" />|
 
